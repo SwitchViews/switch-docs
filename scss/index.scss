@@ -1,0 +1,11 @@
+// Import libraries that you need
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+//Custom Styling
+$main-color: #fff;
+
+body {
+	h1 {
+		color: $main-color;
+	}
+}
